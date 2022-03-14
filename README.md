@@ -1,5 +1,10 @@
 # Broken Text
-An console application using C# with .NET core 3.1
+An console application using C# with .NET core 3.1.
+
+To run on vscode just navigate to `Application` on terminal and execute `dotnet run`
+> `$ BrokenText\Application> dotnet run`
+
+To run on visual studio just open the solution and click on play button or by the debug menu on `Debug > Start Debugging`
 
 ## The problem to solve
 
